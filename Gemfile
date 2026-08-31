@@ -1,4 +1,4 @@
-gem 'concurrent-ruby', '1.3.4'
+gem 'concurrent-ruby', '1.3.8'
 
 source "https://rubygems.org"
 
